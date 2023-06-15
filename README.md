@@ -138,7 +138,7 @@ contract SimpleMarketplace {
 ![image](https://github.com/vv910511/Project_data/blob/main/%E5%9C%96%E7%89%871.png)
 ![gif](https://github.com/vv910511/Project_data/blob/main/Gif2.gif)
 ## 參考資料
-** 簡易一對一市場** 
+**簡易一對一市場**  
 * [simple-marketplace](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/simple-marketplace/readme.md)
 ** 使用Solidity開發Smart Contract** 
 * [Smart Contract 開發 - 使用 Solidity :: 2019 iT 邦幫忙鐵人賽](https://ithelp.ithome.com.tw/users/20092025/ironman/1759?page=2)
