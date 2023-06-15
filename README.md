@@ -65,5 +65,5 @@ if __name__ == '__main__':
     app.run()
 ```  
 ## 成果展示
-[https://github.com/vv910511/2023Blockchain_Final_project/edit/main/Gif2.gif](https://github.com/vv910511/2023Blockchain_Final_project/blob/main/Gif2.gif)
+![gif](https://github.com/vv910511/2023Blockchain_Final_project/blob/main/Gif2.gif)
 
