@@ -138,4 +138,6 @@ contract SimpleMarketplace {
 ![image](https://github.com/vv910511/Project_data/blob/main/%E5%9C%96%E7%89%871.png)
 ![gif](https://github.com/vv910511/Project_data/blob/main/Gif2.gif)
 ## 參考資料
+簡易一對一市場交易
+![Simple Market](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/simple-marketplace/readme.md))
 
