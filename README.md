@@ -3,7 +3,7 @@
 本專案之目的為以區塊鏈技術進行簡易市場競標活動  
 
 **附件檔案**  
-* [SimpleMarket Bidding.sol]():本專案所使用之智能合約  
+* [SimpleMarket Bidding.sol](https://github.com/vv910511/2023Blockchain_Final_project/blob/main/SimpleMarket%20Bidding.sol):本專案所使用之智能合約  
 * [app.py](https://github.com/vv910511/2023Blockchain_Final_project/blob/main/Python_Web/app.py):以Python結合Web3與Flask完成基本功能設定    
 * [index.html](https://github.com/vv910511/2023Blockchain_Final_project/blob/main/Python_Web/templates/index.html):前端操作頁面  
 
