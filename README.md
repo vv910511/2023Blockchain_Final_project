@@ -135,5 +135,7 @@ contract SimpleMarketplace {
 
 ```  
 ## 成果展示
+![image](https://github.com/vv910511/Project_data/blob/main/%E5%9C%96%E7%89%871.png)
 ![gif](https://github.com/vv910511/Project_data/blob/main/Gif2.gif)
+## 參考資料
 
