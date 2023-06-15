@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Market Bidding</title>
+</head>
+<body>
+    <h1>簡單市場競標</h1>
+	<h3>賣家：0x262F7Da1cbbCf5CdE03a886a92B132AFB37a15ED</h3>
+	<form method="POST" action="/">
+		<label for="contract_address">合約地址：</label>
+        <input type="text" id="contract_address" name="contract_address" required><br>
+		<button type="submit">連接</button>
+	</form>
+    <h3>最高出價者：{{ bidder }}</h3>
+    <h3>最高出價：{{ bid_price }}</h3>
+    <form method="POST" action="/place_bid">
+		<label for="Num">錢包編號：</label>
+        <input type="text" id="Num" name="Num"><br>
+        <label for="bid_price">出價金額：</label>
+        <input type="text" id="bid_price" name="bid_price"><br>
+        <button type="submit">提交出價</button>
+    </form>
+	<br>
+	
+	
+<style>
+  table {
+    border-collapse: collapse;
+    width: 45%;
+  }
+
+  th, td {
+    border: 1px solid #333333;
+    padding: 8px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #ADADAD;
+    height: 30px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #E0E0E0;
+  }
+
+  tr:hover {
+    background-color: #ffffff;
+  }
+</style>
+	<table>
+		<tr>
+			<th>錢包編號</th>
+			<th>錢包地址</th>
+		</tr>
+		<tr>
+			<td>０</td>
+			<td>0x372668ac728eeef7cf1392dbd58a86ad28b0f32b</td>
+		</tr>
+		<tr>
+			<td>１</td>
+			<td>0x5c55704fc22a08fb206a08e056081f71ddcac735</td>
+		</tr>
+		<tr>
+			<td>２</td>
+			<td>0x262f7da1cbbcf5cde03a886a92b132afb37a15ed</td>
+		</tr>
+		<tr>
+			<td>３</td>
+			<td>0xd7e60078c97a645210896430300aa7d623c667e0</td>
+		</tr>
+		<tr>
+			<td>４</td>
+			<td>0x882a355b2258039d001726dd769885969285a1de</td>
+		</tr>
+	</table>
+   
+</html>
+
+
