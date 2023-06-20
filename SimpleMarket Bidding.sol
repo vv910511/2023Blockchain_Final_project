@@ -4,7 +4,6 @@ contract SimpleMarketplace {
     enum StateType { 
         ItemAvailable,
         Bidding,
-        Accepted,
         AuctionEnded
     }
     
