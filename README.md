@@ -10,7 +10,7 @@
 * [index.html](https://github.com/vv910511/2023Blockchain_Final_project/blob/main/Python_Web/templates/index.html)：前端操作頁面  
 
 ## 狀態
-|     名字      |             描述                                |
+|     名稱      |             描述                                |
 |   :----:      |              ------                             |
 | ItemAvailable | 表示合約擁有者已將商品上架競標市場（完成合約部署）　|
 | Bidding       | 表示競標中，所有買家皆可出價                      | 
