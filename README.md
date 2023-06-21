@@ -9,6 +9,16 @@
 * [app.py](https://github.com/vv910511/2023Blockchain_Final_project/blob/main/Python_Web/app.py)：以Python結合Web3與Flask完成基本功能設定    
 * [index.html](https://github.com/vv910511/2023Blockchain_Final_project/blob/main/Python_Web/templates/index.html)：前端操作頁面  
 
+## 狀態
+|     名字      |             描述                                |
+|   :----:      |              ------                             |
+| ItemAvailable | 表示合約擁有者已將商品上架競標市場（完成合約部署）　|
+| Bidding       | 表示競標中，所有買家皆可出價                      | 
+| AuctionEnded  | 表示合約用有者已接受最高出價                      | 
+
+
+![image](https://github.com/vv910511/Project_data/blob/main/%E7%8B%80%E6%85%8B%E5%9C%96.png)
+
 ## 程式說明  
 
 **前端網頁**
