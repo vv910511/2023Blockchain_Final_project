@@ -17,8 +17,8 @@
 | AuctionEnded  | 表示合約用有者已接受最高出價                      | 
 
 
-![image](![image](https://github.com/vv910511/2023Blockchain_Final_project/assets/101086303/5423cda8-62a9-4dc9-83e1-6d6d64da3141)
-)
+![image](https://github.com/vv910511/2023Blockchain_Final_project/assets/101086303/5423cda8-62a9-4dc9-83e1-6d6d64da3141)
+
 
 ## 程式說明  
 
