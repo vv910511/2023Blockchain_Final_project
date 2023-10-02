@@ -147,8 +147,8 @@ contract SimpleMarketplace {
 
 ```  
 ## 成果展示
-![image](https://github.com/vv910511/Project_data/blob/main/%E5%9C%96%E7%89%871.png)
-![gif](https://github.com/vv910511/Project_data/blob/main/Gif2.gif)
+![image](https://github.com/vv910511/2023Blockchain_Final_project/assets/101086303/ec6b87fc-bdc5-49f5-91a1-f4bfdb1981df)
+![Gif](https://github.com/vv910511/2023Blockchain_Final_project/assets/101086303/51490803-81d0-403b-9c43-3d7a21ac9fa1)
 ## 參考資料
 **簡易一對一市場**
 * [simple-marketplace](https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/simple-marketplace/readme.md)  
